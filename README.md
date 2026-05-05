@@ -17,9 +17,9 @@ My long-term mission is to unite **game development and Jiu Jitsu** under one ro
 
 ## 🎮 Current Projects
 
-### 🍺 Tavern Things
+<!-- ### 🍺 Tavern Things -->
 
-A stylized tavern experience focused on atmosphere, interaction, and world-building.
+<!-- A stylized tavern experience focused on atmosphere, interaction, and world-building. -->
 
 <!-- Add screenshot below when ready -->
 
