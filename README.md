@@ -1,6 +1,6 @@
 # 🏯 KimuraTrap Studios
 
-### 👋 Hello world, my name is Scott Lee
+### 👋 Hello, I'm Scott Lee
 
 🎮 Unreal Engine 5 Game Developer
 🥋 Jiu Jitsu Coach & Athlete
@@ -60,9 +60,9 @@ Built in Unreal Engine 5 with a focus on performance and scalability.
 
 ## 📊 GitHub Activity
 
-![Scott's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScottLeeBJJ&show_icons=true&theme=tokyonight)
+![Scott's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScottLeeBJJ\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ScottLeeBJJ&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ScottLeeBJJ\&layout=compact\&theme=tokyonight)
 
 ---
 
