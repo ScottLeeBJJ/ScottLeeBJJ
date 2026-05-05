@@ -60,9 +60,10 @@ Built in Unreal Engine 5 with a focus on performance and scalability.
 
 ## 📊 GitHub Activity
 
-![Scott's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScottLeeBJJ&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Scott's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScottLeeBJJ\&show_icons=true\&theme=tokyonight\&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ScottLeeBJJ&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ScottLeeBJJ\&layout=compact\&theme=tokyonight\&cache_seconds=1800)
+
 ---
 
 ## 🎥 Studio & Content
