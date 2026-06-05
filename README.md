@@ -40,21 +40,47 @@ Built in Unreal Engine 5 with a focus on performance and scalability.
 
 ### 🎮 Game Development
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge\&logo=unrealengine\&logoColor=white)
+* C++
+* Unreal Engine 5
+* Multiplayer Networking
+* Gameplay Systems
+* AI Programming
+* Replication & RPCs
 
 ### 🌐 Web Development
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+* React
+* Node.js
+* MongoDB
+* JavaScript / TypeScript
+* REST APIs
 
-### 🔌 Specializations
+### 📱 Mobile Development
 
-* Multiplayer Systems (UE5 C++)
+* React Native
+* Expo
+* TypeScript
+
+### 🔌 Core Expertise
+
+* Multiplayer Systems Engineering (UE5 C++)
 * Networked Game Architecture
-* Responsive UI Design (React)
+* Gameplay Programming
 * Component-Based Frontend Architecture
+* Responsive UI Design
+* API & Backend Development
+* Technical Leadership & Team Management
+
+### 🛠️ Tools & Technologies
+
+* Git & GitHub
+* Visual Studio
+* VS Code
+* Postman
+* MongoDB Atlas
+* Steam Online Subsystem
+* Linux Fundamentals
+
 
 ---
 
