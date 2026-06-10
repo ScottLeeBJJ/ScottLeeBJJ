@@ -17,18 +17,40 @@ My long-term mission is to unite **game development and Jiu Jitsu** under one ro
 
 ## 🎮 Current Projects
 
+### 🥋 Jiu Jitsu Hunter
+
+A Solo Leveling-inspired mobile application designed to gamify Brazilian Jiu Jitsu training. Players complete daily quests, earn experience, progress through belt ranks, and embark on text-based adventures inspired by RPG progression systems.
+
+**Tech Stack:** React Native, TypeScript, Expo
+
+---
+
+### 🌸 Operation: Sakura Fall
+
+A tactical multiplayer first-person shooter set in a near-future Japan. Featuring team-based combat, proximity voice chat, class-based gameplay, and realistic battlefield mechanics, Operation: Sakura Fall is built around immersive multiplayer experiences and scalable network architecture.
+
+**Tech Stack:** Unreal Engine 5, C++, Steam Online Subsystem
+
+---
+
 ### 🍺 Tavern Things
 
-A stylized tavern experience focused on atmosphere, interaction, and world-building.
+A multiplayer social party game centered around running, exploring, and socializing within a lively fantasy tavern. Designed to encourage player interaction, mini-games, roleplay, and emergent storytelling in a cozy multiplayer environment.
+
+**Tech Stack:** Unreal Engine 5, C++
 
 <!-- Add screenshot below when ready -->
 
 <!-- ![Tavern Things Screenshot](your-image-link) -->
 
+---
+
 ### 🌍 Fantasy MMORPG
 
-A persistent online world with PvPvE, real-time combat, and large-scale multiplayer systems.
-Built in Unreal Engine 5 with a focus on performance and scalability.
+A persistent online world featuring PvPvE gameplay, real-time combat, player-driven progression, and large-scale multiplayer systems. Designed with scalability, performance, and long-term content expansion in mind.
+
+**Tech Stack:** Unreal Engine 5, C++, Dedicated Server Architecture
+
 
 <!-- Add screenshot below when ready -->
 
