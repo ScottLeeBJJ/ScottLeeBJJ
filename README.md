@@ -25,19 +25,19 @@ A Solo Leveling-inspired mobile application designed to gamify Brazilian Jiu Jit
 
 ---
 
-### 🌸 Operation: Sakura Fall
+<!-- ### 🌸 Operation: Sakura Fall
 
 A tactical multiplayer first-person shooter set in a near-future Japan. Featuring team-based combat, proximity voice chat, class-based gameplay, and realistic battlefield mechanics, Operation: Sakura Fall is built around immersive multiplayer experiences and scalable network architecture.
 
-**Tech Stack:** Unreal Engine 5, C++, Steam Online Subsystem
+**Tech Stack:** Unreal Engine 5, C++, Steam Online Subsystem -->
 
 ---
 
-### 🍺 Tavern Things
+<!-- ### 🍺 Tavern Things
 
 A multiplayer social party game centered around running, exploring, and socializing within a lively fantasy tavern. Designed to encourage player interaction, mini-games, roleplay, and emergent storytelling in a cozy multiplayer environment.
 
-**Tech Stack:** Unreal Engine 5, C++
+**Tech Stack:** Unreal Engine 5, C++ -->
 
 <!-- Add screenshot below when ready -->
 
@@ -45,11 +45,11 @@ A multiplayer social party game centered around running, exploring, and socializ
 
 ---
 
-### 🌍 Fantasy MMORPG
+<!-- ### 🌍 Fantasy MMORPG
 
 A persistent online world featuring PvPvE gameplay, real-time combat, player-driven progression, and large-scale multiplayer systems. Designed with scalability, performance, and long-term content expansion in mind.
 
-**Tech Stack:** Unreal Engine 5, C++, Dedicated Server Architecture
+**Tech Stack:** Unreal Engine 5, C++, Dedicated Server Architecture -->
 
 
 <!-- Add screenshot below when ready -->
