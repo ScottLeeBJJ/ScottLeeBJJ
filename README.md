@@ -25,6 +25,13 @@ A Solo Leveling-inspired mobile application designed to gamify Brazilian Jiu Jit
 
 ---
 
+## KTS Website (kimuratrapstudios.com)
+The official website of KimuraTrap Studios. Currently in it's version 2!
+
+**Tech Stack:** React.js, CSS, Node
+
+---
+
 <!-- ### 🌸 Operation: Sakura Fall
 
 A tactical multiplayer first-person shooter set in a near-future Japan. Featuring team-based combat, proximity voice chat, class-based gameplay, and realistic battlefield mechanics, Operation: Sakura Fall is built around immersive multiplayer experiences and scalable network architecture.
